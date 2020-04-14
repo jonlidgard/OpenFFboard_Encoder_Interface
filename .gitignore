@@ -12,7 +12,16 @@ _autosave-*
 *.tmp
 *-save.pro
 *-save.kicad_pcb
-fp-info-cache
+fp-info-cache*
+*-rescue.lib
+*-cache.lib
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
 
 # Netlist files (exported from Eeschema)
 *.net
