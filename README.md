@@ -14,6 +14,8 @@ relevant pins.
 
 Produced with [Kicad 5.1](https://www.kicad-pcb.org)
 
+![PCB image](https://github.com/jonlidgard/OpenFFboard_Encoder_Interface/blob/master/RS422.png)
+
 
 ### Version History
 V1.0  - 14/04/20  - Initial release.
