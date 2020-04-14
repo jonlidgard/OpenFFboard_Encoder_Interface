@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name AM26C32CD)(type KiCad)(uri "/Users/jon/Documents/KiCad/Parts Library/ul_AM26C32CD/KiCAD/2020-04-09_18-52-56/footprints.pretty")(options "")(descr ""))
+  (lib (name digikey-footprints)(type KiCad)(uri "/Users/jon/Documents/KiCad/Parts Library/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name SamacSys)(type KiCad)(uri "/Users/jon/Documents/KiCad/Parts Library/SamacSys/SamacSys_Parts.pretty")(options "")(descr ""))
+)
