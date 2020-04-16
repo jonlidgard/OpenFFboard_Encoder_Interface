@@ -560,4 +560,44 @@ F 3 "" H 7950 2450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 7950 2450
+Text Label 2200 3300 0    50   ~ 0
+RD
+Text Label 2200 3400 0    50   ~ 0
+BK
+Text Label 2200 3500 0    50   ~ 0
+GN
+Text Label 2200 3600 0    50   ~ 0
+YL
+Text Label 2200 3700 0    50   ~ 0
+BN
+Text Label 2200 3800 0    50   ~ 0
+YL-
+Text Label 2200 3900 0    50   ~ 0
+BN-
+Text Label 3300 3300 0    50   ~ 0
+BL
+Text Label 3300 3400 0    50   ~ 0
+GY
+Text Label 3300 3500 0    50   ~ 0
+WH
+Text Label 3300 3600 0    50   ~ 0
+GY-
+Text Label 3300 3700 0    50   ~ 0
+BL-
+Text Label 3300 3800 0    50   ~ 0
+GN-
+Text Label 3300 3900 0    50   ~ 0
+WH-
+Text Label 2200 3200 0    50   ~ 0
+PE
+Text Notes 1550 4650 0    50   ~ 0
+Colours are for Mige series motor encoder cables. \n‘-‘ = Colour/Black
+Wire Notes Line
+	1500 4500 3800 4500
+Wire Notes Line
+	3800 4500 3800 4650
+Wire Notes Line
+	3800 4650 1500 4650
+Wire Notes Line
+	1500 4650 1500 4500
 $EndSCHEMATC
